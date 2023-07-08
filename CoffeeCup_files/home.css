@@ -1,0 +1,123 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'popins'                   ,sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color:whitesmoke;
+}
+/* ul
+{
+  display: flex;
+  float: right;
+
+  
+}
+li
+{
+    padding: 30px;
+    list-style-type: none;
+    font-size: larger;
+}
+a
+{
+    text-decoration: none;
+
+}
+#heading
+{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    right: 700px;
+    bottom: 10px;
+    font-style: italic;
+
+} */
+.d1
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    border-bottom: 2px solid #000942;
+
+}
+.d1 ul li
+{
+    list-style: none;
+    display: inline-block;
+  
+}
+.d1 ul li a
+{
+  text-decoration: none;
+  padding: 30px;
+  
+}
+#heading
+{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.container
+{
+    width: 100%;
+    height: 700px;
+    background-image:url(cup-coffee-with-pile-coffee-beans_1112-438.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+#d2
+{
+    margin-top: 1px;
+    /* background-color: aqua; */
+    text-align: center;
+    vertical-align: middle;
+    color: aliceblue; 
+    
+    
+    
+    
+    /* display : flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 800px;
+    height: 600px;
+    padding: 30px;
+    background-color: lightgreen; */
+    
+}
+#a1
+{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#a2
+{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#b1
+{
+  
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 118);
+    font-style: normal;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
