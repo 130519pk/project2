@@ -47,6 +47,8 @@ border-radius: 30PX;
    border-radius: 10px;
   background-color: black;
   color: aliceblue;
+  position: relative;
+  left: -80px;
    
 }
 .registraton-form button:hover{

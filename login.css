@@ -79,7 +79,7 @@ a:hover{
     height: 60px;
     background: #222;
     border: none;
-    border-radius: 30px;
+    border-radius: 25px;
     cursor: pointer;
     transition: .3s;
     color: #dfdfdf;
